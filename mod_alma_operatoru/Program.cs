@@ -4,17 +4,16 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Giris
+namespace mod_alma_operatoru
 {
     internal class Program
     {
         static void Main(string[] args)
         {
-            string isim = "Batuhan";
-            string soyisim = "Bozkurt";
+            int x = 10;
+            int y = 3;
 
-            Console.WriteLine(isim);
-            Console.WriteLine(soyisim);
+            Console.WriteLine(x%y);
             Console.ReadLine();
         }
     }

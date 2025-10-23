@@ -4,15 +4,14 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Giris
+namespace stringVeriTipi
 {
     internal class Program
     {
         static void Main(string[] args)
         {
-            string isim = "Batuhan";
+            string isim = "Batuhhan";
             string soyisim = "Bozkurt";
-
             Console.WriteLine(isim);
             Console.WriteLine(soyisim);
             Console.ReadLine();

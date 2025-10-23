@@ -4,17 +4,19 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Giris
+namespace carpma_ve_bolme_operatoru
 {
     internal class Program
     {
         static void Main(string[] args)
         {
-            string isim = "Batuhan";
-            string soyisim = "Bozkurt";
+            int x = 8;
+            int y = 16;
+            int z = 4;
 
-            Console.WriteLine(isim);
-            Console.WriteLine(soyisim);
+            int islem = (x * y) / z;
+
+            Console.WriteLine(islem);
             Console.ReadLine();
         }
     }

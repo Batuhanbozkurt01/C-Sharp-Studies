@@ -4,17 +4,20 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Giris
+namespace toplama_ve_cıkarma_operatorleri
 {
     internal class Program
     {
         static void Main(string[] args)
         {
-            string isim = "Batuhan";
-            string soyisim = "Bozkurt";
+            int x = 48;
+            int y = 62;
+            int z = 39;
+            int t = 75;
 
-            Console.WriteLine(isim);
-            Console.WriteLine(soyisim);
+            int toplam = (x + y + z) - t;
+
+            Console.WriteLine(toplam);
             Console.ReadLine();
         }
     }

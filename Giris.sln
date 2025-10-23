@@ -21,6 +21,20 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "doubleVeriTipi", "doubleVer
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "charVeriTipi", "charVeriTipi\charVeriTipi.csproj", "{385F5F4C-087D-4C56-B1E4-E8D78DD51FBB}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "stringVeriTipi", "stringVeriTipi\stringVeriTipi.csproj", "{EF89BA5B-CB39-446B-885F-B2F603C5F57B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "booleanVeriTipi", "booleanVeriTipi\booleanVeriTipi.csproj", "{22B2929F-294B-4232-A622-1279385C5C65}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "toplama_ve_cıkarma_operatorleri", "toplama_ve_cıkarma_operatorleri\toplama_ve_cıkarma_operatorleri.csproj", "{21A58FA0-AEE6-4B12-8926-00582A79E30D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "carpma_ve_bolme_operatoru", "carpma_ve_bolme_operatoru\carpma_ve_bolme_operatoru.csproj", "{5C46999C-9F08-4E7E-9D01-82D4673493E9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mod_alma_operatoru", "mod_alma_operatoru\mod_alma_operatoru.csproj", "{5D0822D1-0393-49F7-A186-D8E04A653BA5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "arttırma_ve_azaltma_operatorleri", "arttırma_ve_azaltma_operatorleri\arttırma_ve_azaltma_operatorleri.csproj", "{2C84AA51-3B91-44C5-BBB9-D9E2DE780718}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +77,30 @@ Global
 		{385F5F4C-087D-4C56-B1E4-E8D78DD51FBB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{385F5F4C-087D-4C56-B1E4-E8D78DD51FBB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{385F5F4C-087D-4C56-B1E4-E8D78DD51FBB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EF89BA5B-CB39-446B-885F-B2F603C5F57B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF89BA5B-CB39-446B-885F-B2F603C5F57B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF89BA5B-CB39-446B-885F-B2F603C5F57B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF89BA5B-CB39-446B-885F-B2F603C5F57B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{22B2929F-294B-4232-A622-1279385C5C65}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22B2929F-294B-4232-A622-1279385C5C65}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22B2929F-294B-4232-A622-1279385C5C65}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22B2929F-294B-4232-A622-1279385C5C65}.Release|Any CPU.Build.0 = Release|Any CPU
+		{21A58FA0-AEE6-4B12-8926-00582A79E30D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21A58FA0-AEE6-4B12-8926-00582A79E30D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21A58FA0-AEE6-4B12-8926-00582A79E30D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21A58FA0-AEE6-4B12-8926-00582A79E30D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5C46999C-9F08-4E7E-9D01-82D4673493E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C46999C-9F08-4E7E-9D01-82D4673493E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C46999C-9F08-4E7E-9D01-82D4673493E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C46999C-9F08-4E7E-9D01-82D4673493E9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5D0822D1-0393-49F7-A186-D8E04A653BA5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D0822D1-0393-49F7-A186-D8E04A653BA5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D0822D1-0393-49F7-A186-D8E04A653BA5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D0822D1-0393-49F7-A186-D8E04A653BA5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2C84AA51-3B91-44C5-BBB9-D9E2DE780718}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C84AA51-3B91-44C5-BBB9-D9E2DE780718}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C84AA51-3B91-44C5-BBB9-D9E2DE780718}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C84AA51-3B91-44C5-BBB9-D9E2DE780718}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
