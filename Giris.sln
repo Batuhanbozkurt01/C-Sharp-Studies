@@ -35,13 +35,13 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mod_alma_operatoru", "mod_a
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "arttırma_ve_azaltma_operatorleri", "arttırma_ve_azaltma_operatorleri\arttırma_ve_azaltma_operatorleri.csproj", "{2C84AA51-3B91-44C5-BBB9-D9E2DE780718}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinFormsApp1", "WinFormsApp1\WinFormsApp1.csproj", "{6B77AD8A-D1D8-427F-90BB-3259D74CF23E}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "buyuk_kucuk_esittir_operatorleri", "buyuk_kucuk_esittir\buyuk_kucuk_esittir_operatorleri.csproj", "{43CDDA7F-9BD3-4EFB-9266-17F24AA8672D}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "and_operatoru", "and_operatoru\and_operatoru.csproj", "{E0F086BE-E222-4A04-A9D2-2959ECD36479}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "or_operatoru", "or_operatoru\or_operatoru.csproj", "{58CE49FA-4B91-4D35-AF94-254628B20500}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinFormsApp1", "WinFormsApp1\WinFormsApp1.csproj", "{3C16E2CA-9791-4F8E-B88D-4ECABD462F45}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -109,10 +109,6 @@ Global
 		{2C84AA51-3B91-44C5-BBB9-D9E2DE780718}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2C84AA51-3B91-44C5-BBB9-D9E2DE780718}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2C84AA51-3B91-44C5-BBB9-D9E2DE780718}.Release|Any CPU.Build.0 = Release|Any CPU
-		{6B77AD8A-D1D8-427F-90BB-3259D74CF23E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{6B77AD8A-D1D8-427F-90BB-3259D74CF23E}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{6B77AD8A-D1D8-427F-90BB-3259D74CF23E}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{6B77AD8A-D1D8-427F-90BB-3259D74CF23E}.Release|Any CPU.Build.0 = Release|Any CPU
 		{43CDDA7F-9BD3-4EFB-9266-17F24AA8672D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{43CDDA7F-9BD3-4EFB-9266-17F24AA8672D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{43CDDA7F-9BD3-4EFB-9266-17F24AA8672D}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -125,6 +121,10 @@ Global
 		{58CE49FA-4B91-4D35-AF94-254628B20500}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{58CE49FA-4B91-4D35-AF94-254628B20500}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{58CE49FA-4B91-4D35-AF94-254628B20500}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3C16E2CA-9791-4F8E-B88D-4ECABD462F45}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C16E2CA-9791-4F8E-B88D-4ECABD462F45}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C16E2CA-9791-4F8E-B88D-4ECABD462F45}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C16E2CA-9791-4F8E-B88D-4ECABD462F45}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
