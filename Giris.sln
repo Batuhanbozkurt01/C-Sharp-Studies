@@ -51,6 +51,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "if_elseif_else_calismasi", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ATM_uygulaması", "ATM_uygulaması\ATM_uygulaması.csproj", "{0AE12FFD-B198-4B1C-B876-101CB6FDEAD4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bmi_uygulaması_boy_kitle_endeksi", "bmi_uygulaması_boy_kitle_endeksi\bmi_uygulaması_boy_kitle_endeksi.csproj", "{F382A3E5-432A-4330-900A-873A9D6A32C6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -149,6 +151,10 @@ Global
 		{0AE12FFD-B198-4B1C-B876-101CB6FDEAD4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0AE12FFD-B198-4B1C-B876-101CB6FDEAD4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0AE12FFD-B198-4B1C-B876-101CB6FDEAD4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F382A3E5-432A-4330-900A-873A9D6A32C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F382A3E5-432A-4330-900A-873A9D6A32C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F382A3E5-432A-4330-900A-873A9D6A32C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F382A3E5-432A-4330-900A-873A9D6A32C6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
