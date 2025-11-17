@@ -11,6 +11,8 @@ namespace bmi_uygulaması_boy_kitle_endeksi
     {
         static void Main(string[] args)
         {
+            // Kullanıcıdan kilo ve boy bilgilerini alarak BMI hesaplayan ve kategorisini belirten uygulama.
+
             Console.WriteLine("Kilonuzu giriniz (örneğin 72,0 veya 57,4): ");
             double kilo = double.Parse(Console.ReadLine(), CultureInfo.GetCultureInfo("tr-TR"));
 
