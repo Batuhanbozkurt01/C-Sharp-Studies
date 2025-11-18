@@ -57,6 +57,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "switch_case_yapisi_ile_olus
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HesapMakinesiWindowsConApp", "HesapMakinesiWindowsConApp\HesapMakinesiWindowsConApp.csproj", "{F2B34C5C-18DD-4598-ABDC-9A433C6E562E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsConApp_kullanıalrak_olusturulmus_save_ve_open_uygulaması", "WindowsConApp_kullanıalrak_olusturulmus_save_ve_open_uygulaması\WindowsConApp_kullanıalrak_olusturulmus_save_ve_open_uygulaması.csproj", "{A5EF9994-A965-40A4-A46E-4146C4DA0A65}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -167,6 +169,10 @@ Global
 		{F2B34C5C-18DD-4598-ABDC-9A433C6E562E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F2B34C5C-18DD-4598-ABDC-9A433C6E562E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F2B34C5C-18DD-4598-ABDC-9A433C6E562E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A5EF9994-A965-40A4-A46E-4146C4DA0A65}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5EF9994-A965-40A4-A46E-4146C4DA0A65}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5EF9994-A965-40A4-A46E-4146C4DA0A65}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5EF9994-A965-40A4-A46E-4146C4DA0A65}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
